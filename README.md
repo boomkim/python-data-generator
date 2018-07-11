@@ -1,6 +1,6 @@
 # python-data-generator
 data generator in pyhton
 
-##usage
+## usage
 
-##todo
+## todo
